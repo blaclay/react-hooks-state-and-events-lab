@@ -22,4 +22,6 @@ function Item({ name, category }) {
   );
 }
 
+// testing
+
 export default Item;
